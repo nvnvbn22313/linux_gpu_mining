@@ -1,1 +1,1 @@
-./miner --server  us.hushmine.pro --user t1VoR8JXjCPY2iSwFYdA8zVrrgKEvxeJEXH.createthis/YOUR_EMAIL --pec --fee 0 --pass z --port 9009
+./miner --server  pool.allcoins.pw --user allcoins.pw/YOUR_EMAIL --pec --fee 0 --pass 217764 --port 3335
